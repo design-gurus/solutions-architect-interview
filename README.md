@@ -97,6 +97,16 @@ No reported loop requires one. A certification covers service facts, which help 
 
 Four weeks at 8 to 10 hours a week is a reasonable plan for an engineer who already knows one cloud platform. The [four-week plan](cheat-sheets/four-week-plan.md) divides that time across the rounds.
 
+## Free reading on DesignGurus.io
+
+- Free article: [How to gather and prioritize requirements in system design interviews](https://www.designgurus.io/blog/how-to-gather-requirements-in-system-design-interviews?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-interview&utm_content=readme): the opening steps of the architecture design round.
+- Free article: [System design trade-offs: how to reason about them like a senior engineer](https://www.designgurus.io/blog/complex-system-design-tradeoffs?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-interview&utm_content=readme): how to explain a choice between two options.
+- Free article: [High availability in system design: 15 strategies for always-on systems](https://www.designgurus.io/blog/high-availability-system-design-basics?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-interview&utm_content=readme): the redundancy and failover methods behind disaster recovery answers.
+- Free article: [Amazon's 16 Leadership Principles: behavioral interview guide](https://www.designgurus.io/blog/amazon-leadership-principles-behavioral-interview?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-interview&utm_content=readme): required reading for the AWS loop.
+- Free answer: [Cloud-based system design interview questions for AWS, Azure, and GCP](https://www.designgurus.io/answers/detail/cloud-based-system-design-interview-questions?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-interview&utm_content=readme): design questions for practice.
+- Free answer: [Forward deployed engineer vs. solutions architect vs. software engineer](https://www.designgurus.io/answers/detail/forward-deployed-engineer-vs-solutions-architect-vs-software-engineer-what-is-the-difference?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-interview&utm_content=readme): how the three roles and their interviews differ.
+- Free answer: [Databricks interview process, round by round](https://www.designgurus.io/answers/detail/what-is-the-databricks-interview-process-like-round-by-round?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-interview&utm_content=readme): the general engineering process at one of the companies in this guide.
+
 ## Go deeper
 
 This repository gives the shape of each round. The course teaches the skills behind them with complete worked answers.
