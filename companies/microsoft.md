@@ -63,6 +63,7 @@ This table is a preparation guide, not a published standard.
 ## Go deeper
 
 - [Grokking the Solutions Architect Interview](https://www.designgurus.io/course/grokking-the-solutions-architect-interview?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-interview&utm_content=companies-microsoft) covers the Microsoft and Google Cloud loops in one lesson and shows how to prepare from a job description.
+- Lesson: [Microsoft and Google Cloud Interviews](https://www.designgurus.io/course-play/grokking-the-solutions-architect-interview/doc/microsoft-and-google-cloud-interviews?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-interview&utm_content=companies-microsoft), in Grokking the Solutions Architect Interview
 - [Grokking Modern Behavioral Interview](https://www.designgurus.io/course/grokking-behavioral-interview?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-interview&utm_content=companies-microsoft) teaches how to structure a failure story so that it shows learning.
 - Compare this loop with the others in the [company comparison table](README.md).
 - Free article: [Microsoft interview guide: process, questions, and how to prepare](https://www.designgurus.io/blog/microsoft-interview-guide?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-interview&utm_content=companies-microsoft), the company-wide hiring process.

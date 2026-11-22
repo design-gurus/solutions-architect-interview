@@ -62,6 +62,7 @@ A loop that takes up to 4 months creates a specific problem: material prepared a
 ## Go deeper
 
 - [Grokking the Solutions Architect Interview](https://www.designgurus.io/course/grokking-the-solutions-architect-interview?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-interview&utm_content=companies-google-cloud) covers the Google Cloud and Microsoft loops and maps services across the three large cloud platforms.
+- Lesson: [Microsoft and Google Cloud Interviews](https://www.designgurus.io/course-play/grokking-the-solutions-architect-interview/doc/microsoft-and-google-cloud-interviews?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-interview&utm_content=companies-google-cloud), in Grokking the Solutions Architect Interview
 - [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-interview&utm_content=companies-google-cloud) builds the design base that the architecture interview assumes.
 - Learn Google Cloud service names from the [service translation table](../cheat-sheets/aws-vs-azure-vs-gcp-services.md).
 - Free answer: [Google forward deployed engineer vs. customer engineer](https://www.designgurus.io/answers/detail/google-forward-deployed-engineer-vs-customer-engineer-what-is-the-difference?utm_source=github&utm_medium=repo&utm_campaign=solutions-architect-interview&utm_content=companies-google-cloud), how the customer engineer role differs from the other customer-facing Google role.
