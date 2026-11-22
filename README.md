@@ -131,6 +131,8 @@ This repository gives the shape of each round. The course teaches the skills beh
 
 Related free guides: [Grokking System Design](https://github.com/design-gurus/grokking-system-design), [Forward Deployed Engineer Interview](https://github.com/design-gurus/forward-deployed-engineer-interview), and [Amazon Leadership Principles](https://github.com/design-gurus/amazon-leadership-principles).
 
+For the system design round, see [Grokking System Design](https://github.com/design-gurus/grokking-system-design), the free companion guide with 30 patterns, 59 question walkthroughs, and 35 cheat sheets.
+
 ## Contributing
 
 Corrections and new questions are welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
